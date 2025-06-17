@@ -69,7 +69,7 @@ public function Index()
     // 6. Return formatted response
     return successJson(['list' => $list]);
 }
-
+'''
 ### Data Processing
 1. **Text Length Calculation**  
    - `num`: Original input text length
