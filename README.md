@@ -1,4 +1,5 @@
 # Record.php Controller Documentation
+[日本語 (README-jp.md)](README-jp.md) | [العربية (README-ar.md)](README-ar.md) | [Español (README-es.md)](README-es.md) | [Português (README-pt.md)](README-pt.md)
 
 ## File Purpose
 This controller handles retrieval of AI detection/rewriting history records within a ThinkPHP framework application.
